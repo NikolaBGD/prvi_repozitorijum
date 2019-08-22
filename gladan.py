@@ -1,0 +1,2 @@
+print('Ja volim cokoladu')
+
